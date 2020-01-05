@@ -1,7 +1,9 @@
+#include <stdio.h>
+
 void main(){
-	// n - número
-	// i7 - ímpar e múltiplo de 7
-	// p3 - par e múltiplo de 3
+	// n - nÃºmero
+	// i7 - Ã­mpar e mÃºltiplo de 7
+	// p3 - par e mÃºltiplo de 3
 	int n = 0, i7 = 0, p3 = 0, total = 0;	
 	
 	while (n != -1){
